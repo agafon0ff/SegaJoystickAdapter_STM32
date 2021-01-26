@@ -1,6 +1,6 @@
 # SegaJoystickAdapter_STM32
 
-**STM32 based 16bit-gamepads usb-adapter**
+**STM32F042F4P6 based 16bit-gamepads usb-adapter**
 
 *Used STM32CubeIDE*
 
